@@ -1,0 +1,7 @@
+Variables needed for Caesar's secret party:
+
+- partyLocation: Stores the original location of the party.
+- shiftValue: Stores the number of letters to shift in the Caesar Cipher.
+- encryptedMessage: Stores the encoded party location.
+- decryptedMessage: Stores the decoded party location.
+- isPartySafe: Boolean value indicating whether the party remains secret.
